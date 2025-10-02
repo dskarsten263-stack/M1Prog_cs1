@@ -1,0 +1,14 @@
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/plus/bin/Debug/net9.0/plus
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/plus/bin/Debug/net9.0/plus.deps.json
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/plus/bin/Debug/net9.0/plus.runtimeconfig.json
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/plus/bin/Debug/net9.0/plus.dll
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/plus/bin/Debug/net9.0/plus.pdb
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/plus/obj/Debug/net9.0/plus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/plus/obj/Debug/net9.0/plus.AssemblyInfoInputs.cache
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/plus/obj/Debug/net9.0/plus.AssemblyInfo.cs
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/plus/obj/Debug/net9.0/plus.csproj.CoreCompileInputs.cache
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/plus/obj/Debug/net9.0/plus.dll
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/plus/obj/Debug/net9.0/refint/plus.dll
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/plus/obj/Debug/net9.0/plus.pdb
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/plus/obj/Debug/net9.0/plus.genruntimeconfig.cache
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/plus/obj/Debug/net9.0/ref/plus.dll

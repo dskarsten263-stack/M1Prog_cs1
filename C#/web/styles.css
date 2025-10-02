@@ -1,0 +1,69 @@
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-color: lightgrey;
+}
+
+.Flex-container
+{
+    display: flex;/* maakt van de container een flex-container */
+    flex-wrap: wrap; 
+    gap : 10px; 
+}
+
+.Flex-item
+{
+    flex-basis: calc(50% - 5px); 
+    flex-grow: 0;
+    flex-shrink: 0;
+   
+    background-color: rgb(27, 65, 19);
+    color: rgb(255, 255, 255);
+    border: 3px solid rgb(0, 0, 0);
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+}   
+.flex1
+{
+    background-color: red;
+    color: white;
+    font-size: 100px;
+}
+.flex2
+{
+    background-color: orange;
+    font-size: 100px;
+}
+.flex3
+{
+    background-color: yellow;
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+}
+.flex4
+{
+    background-color: green;
+    color: white;
+    font-size: 100px;
+}                   
+.flex5
+{
+    background-color: blue;
+    color: white;  
+    font-size: 100px;
+}
+.flex6
+{
+    background-color: purple;
+    color: white;
+    font-size: 100px;
+}
+

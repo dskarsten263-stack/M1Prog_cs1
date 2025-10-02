@@ -1,0 +1,14 @@
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/output/bin/Debug/net9.0/output
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/output/bin/Debug/net9.0/output.deps.json
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/output/bin/Debug/net9.0/output.runtimeconfig.json
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/output/bin/Debug/net9.0/output.dll
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/output/bin/Debug/net9.0/output.pdb
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/output/obj/Debug/net9.0/output.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/output/obj/Debug/net9.0/output.AssemblyInfoInputs.cache
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/output/obj/Debug/net9.0/output.AssemblyInfo.cs
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/output/obj/Debug/net9.0/output.csproj.CoreCompileInputs.cache
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/output/obj/Debug/net9.0/output.dll
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/output/obj/Debug/net9.0/refint/output.dll
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/output/obj/Debug/net9.0/output.pdb
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/output/obj/Debug/net9.0/output.genruntimeconfig.cache
+/Users/daimienmacbookair/Documents/SD1 2025-2026/In Bewerking/PROG/C#/03_rekenen/output/obj/Debug/net9.0/ref/output.dll
